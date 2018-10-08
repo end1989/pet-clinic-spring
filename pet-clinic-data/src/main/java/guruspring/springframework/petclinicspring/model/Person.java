@@ -1,4 +1,4 @@
-package guruspring.petclinicspring.model;
+package guruspring.springframework.petclinicspring.model;
 
 public class Person {
 
